@@ -1,2 +1,2 @@
 name:biju
-city:none
+city:kk
